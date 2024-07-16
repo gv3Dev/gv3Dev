@@ -11,3 +11,4 @@ I'm currently furthering my understanding in machine learning & forward feeding 
 <a href="#"><img href="#" src="https://skillicons.dev/icons?i=python,typescript,lua,php,js,css,html,arduino,express,nodejs,nextjs,aws,babel,bootstrap,docker,cloudflare,figma,github,firebase,appwrite,flask,git,graphql,heroku,kubernetes,kali,mongodb,mysql,django,opencv,photoshop,postgresql,pytorch,react,redis,redux,sass,swift,tailwind,tensorflow" /> 
 </p>
 <p><strong>The above is what I'm comfortable using & what I use frequently based on project demands</strong></p>
+
