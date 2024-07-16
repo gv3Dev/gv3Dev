@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<p><strong>I'm Geahad</strong></p>
+<p><strong>I'm GV3</strong></p>
 I'm a self taught full stack developer & computer science student.<br/>
 I'm interested in working on social media applications and recommendation algorithms <br/>
 I'm currently furthering my understanding in machine learning & forward feeding neural networks<br/><br/><br/>
