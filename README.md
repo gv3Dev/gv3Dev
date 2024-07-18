@@ -7,7 +7,7 @@
   <li>I'm a self-taught full-stack developer & computer science major.</li>
   <li>I'm interested in working on social media applications and recommendation algorithms.</li>
   <li>I'm currently furthering my understanding in machine learning & forward-feeding neural networks.</li>
-  <li>I make fully functioning browser extensions, React Native mobile apps, and dynamic websites (React Frontend) (Python/JS backend).</li>
+  <li>I make fully functioning userscripts, browser extensions, React Native mobile apps, and dynamic websites (React Frontend) (Python/JS backend).</li>
 </ul><br/>
 
 <p align="left">
