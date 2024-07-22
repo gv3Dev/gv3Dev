@@ -2,7 +2,7 @@
 
 <div align="left">
 
-<p><strong>I'm GV3</strong></p>
+<p><strong>I'm GV3 🔻</strong></p>
 <ul>
   <li>I'm a self-taught full-stack developer & computer science major.</li>
   <li>I'm interested in working on social media applications and recommendation algorithms.</li>
