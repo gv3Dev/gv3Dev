@@ -14,17 +14,15 @@
 {
   "name": "GV3",
   "description": "Self-taught full-stack developer & computer science major",
-  "interests": ["social media applications", "recommendation algorithms"],
+  "interests": [ "social media applications", "recommendation algorithms" ],
   "current_focus": "machine learning & forward-feeding neural networks",
-  "expertise": ["userscripts", "browser extensions", "React Native mobile apps", "dynamic websites"],
-  "favorite_technologies": ["Python", "TypeScript", "JavaScript", "Express", "Node.js", "Vite", "Firebase", "Heroku", "MongoDB", "React", "Svelte", "Tailwind CSS",  "TensorFlow",  "PyTorch", "Arduino", "Raspberry Pi"],
-  "latest_project_inDev": [
-     {
-      "name": "hangmap",
-      "description": "A social app for planning hangouts with friends, finding nearby people and places, and matching based on interests. It features swipe sessions to suggest and decide on activities, group planning, and real-time event updates."
-      "technologies": ["OPENAI API (text-embeddings)", "Tensorflow", "Python Flask", "React Native", "Node.js", "Firebase", "BackBlaze", "Express", "MongoDB", "CloudFlare", "Redis", "Expo", "TripAdvisor API", "Sockets.io" "Google Maps API"]
-    }
-  ]
+  "expertise": [ "userscripts", "browser extensions", "React Native mobile apps", "dynamic websites" ],
+  "favorite_technologies": [ "Python", "TypeScript", "JavaScript", "Express", "Node.js", "Vite", "Firebase", "Heroku", "MongoDB", "React", "Svelte", "Tailwind CSS",  "TensorFlow",  "PyTorch", "Arduino", "Raspberry Pi" ],
+  "latest_project_inDev": {
+        "name": "hangmap",
+        "description": "A social app for planning hangouts with friends, finding nearby people and places, and matching based on interests. It features swipe sessions to suggest and decide on activities, group planning, and real-time event updates."
+        "technologies": ["OPENAI API (text-embeddings)", "Tensorflow", "Python Flask", "React Native", "Node.js", "Firebase", "BackBlaze", "Express", "MongoDB", "CloudFlare", "Redis", "Expo", "TripAdvisor API", "Sockets.io" "Google Maps API"]
+   }
 }
 ```
 <br/>
