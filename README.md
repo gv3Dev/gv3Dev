@@ -11,13 +11,8 @@
 </ul><br/>
 
 <p align="left">
-<a href="#"><img href="#" src="https://skillicons.dev/icons?i=python,typescript,js,react,express,nodejs,aws,figma,firebase,flask,git,heroku,mongodb,mysql,react,redis,tailwind,tensorflow,npm,svelte&perline=10" /> 
+<a href="#"><img href="#" src="https://skillicons.dev/icons?i=python,typescript,js,react,express,nodejs,aws,figma,firebase,flask,git,heroku,mongodb,mysql,react,redis,tailwind,tensorflow,npm,svelte" /> 
 </p>
 <br/>
 <p><strong>The above is what I'm comfortable using & what I use frequently based on project demands</strong></p>
-
-<p><strong>Check out one of my recent projects: <a href="https://github.com/gv3Dev/Breadth-First-Search-Snake">Breadth-First Search Snake</a> 🐍🍎</strong></p>
-
-<img src="https://raw.githubusercontent.com/gv3Dev/gv3Dev/a9a2c3023baa8e1fcce30026f8bf9b8081ac210b/github-snake.svg"/>
-
 </div>
