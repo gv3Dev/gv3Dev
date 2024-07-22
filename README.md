@@ -11,7 +11,7 @@
 </ul><br/>
 
 <p align="left">
-<a href="#"><img href="#" src="https://skillicons.dev/icons?i=python,typescript,js,react,express,nodejs,aws,figma,firebase,flask,git,heroku,mongodb,mysql,react,redis,tailwind,tensorflow,npm,svelte&perline=11" /> 
+<a href="#"><img href="#" src="https://skillicons.dev/icons?i=python,typescript,js,express,nodejs,aws,figma,firebase,flask,git,heroku,mongodb,mysql,react,redis,tailwind,tensorflow,npm,svelte&perline=10" /> 
 </p>
 <br/>
 <p><strong>The above is what I'm comfortable using & what I use frequently based on project demands</strong></p>
