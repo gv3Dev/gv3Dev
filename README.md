@@ -1,6 +1,4 @@
-<h2 align="left">Welcome <img width="35px" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif"/> </h2><br/>
-
-
+<h2 align="left">Welcome <img width="25px" src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif"/> </h2><br/>
 
 <div align="left">
 
