@@ -22,7 +22,7 @@
      {
       "name": "hangmap",
       "description": "A social app for planning hangouts with friends, finding nearby people and places, and matching based on interests. It features swipe sessions to suggest and decide on activities, group planning, and real-time event updates."
-      "technologies": ["React Native", "Node.js", "Firebase", "BackBlaze", "Express", "MongoDB", "CloudFlare", "Redis", "Expo", "TripAdvisor API", "Sockets.io" "Google Maps API"]
+      "technologies": ["OPENAI API (text-embeddings)", "Tensorflow", "Python Flask", "React Native", "Node.js", "Firebase", "BackBlaze", "Express", "MongoDB", "CloudFlare", "Redis", "Expo", "TripAdvisor API", "Sockets.io" "Google Maps API"]
     }
   ]
 }
