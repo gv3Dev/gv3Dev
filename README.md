@@ -32,7 +32,7 @@
   <div>
     <p align="left">
       <p><strong>The following is what I'm comfortable using & what I use frequently based on project demands 🔻</strong></p>
-      <img src="https://skillicons.dev/icons?i=python,typescript,js,express,nodejs,npm,vite,jquery,aws,firebase,heroku,git,redis,mysql,mongodb,cloudflare,react,svelte,tailwind,figma,bootstrap,tensorflow,pytorch,sklearn,arduino,raspberrypi" alt="Languages & Frameworks"/>
+      <img src="https://skillicons.dev/icons?i=python,typescript,js,express,nodejs,vite,aws,firebase,heroku,redis,mysql,mongodb,cloudflare,react,svelte,tailwind,figma,tensorflow,pytorch,sklearn,arduino,raspberrypi&perline=11" alt="Languages & Frameworks"/>
     </p>
   </div>
 </div>
