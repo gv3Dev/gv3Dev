@@ -37,4 +37,4 @@
   </div>
 </div>
 <br/>
-I'm on GreasyFork! <a href="https://greasyfork.org/en/users/1354265-gv3dev">Check my userscripts 🍴</a>
+I'm on GreasyFork! <a href="https://greasyfork.org/en/users/1354265-gv3dev">Check out my work 🍴</a>
